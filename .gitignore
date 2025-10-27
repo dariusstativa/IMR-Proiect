@@ -10,7 +10,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-
+/[Uu]serSettings/
+/[Pp]ackageCache/
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -62,6 +63,4 @@ sysinfo.txt
 *.obj
 # Crashlytics generated file
 crashlytics-build.properties
-/[Uu]serSettings/
-/[Pp]ackageCache/
 
