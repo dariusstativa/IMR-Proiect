@@ -62,4 +62,6 @@ sysinfo.txt
 *.obj
 # Crashlytics generated file
 crashlytics-build.properties
+/[Uu]serSettings/
+/[Pp]ackageCache/
 
